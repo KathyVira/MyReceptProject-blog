@@ -1,0 +1,95 @@
+@charset "windows-1251";
+/* определяет кириллистическую кодировку. */
+
+
+
+/* .row {
+    display: block;
+
+} */
+
+
+.login-container {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.login-form-1 {
+    padding: 5%;
+    /* box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19); */
+}
+
+.login-container {
+    /* padding: 5%; */
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+
+.login-form-1 h3 {
+    text-align: center;
+    color: #333;
+}
+
+
+/* .login-container form { */
+/* padding: 10%; */
+/* } */
+
+.btnSubmit {
+    width: 50%;
+    /* border-radius: 1rem; */
+    /* padding: 1.5%; */
+    /* border: none; */
+    /* cursor: pointer; */
+}
+
+.navbar {
+    width: 50%;
+}
+
+/* .login-form-1 .btnSubmit {
+    font-weight: 100; 
+    color: #fff;
+     background-color: #0062cc; 
+} */
+
+
+/* .login-form-1 .ForgetPwd {
+    color: #0062cc;
+    font-weight: 100;
+    text-decoration: none;
+} */
+
+.inputfield {
+    height: 50px;
+}
+
+/* .jumbotron .card .card-body {
+    opacity: 0.90;
+    background-image: url(/img/core-img/coffee.jpg);
+
+} */
+
+.popover {
+    visibility: hidden;
+}
+
+.col {
+    text-align: center;
+
+}
+
+/* <textarea id="wmd-input" name="post-text" class="wmd-input js-wz-element s-input bar0 js-post-body-field processed" data-post-type-id="2" cols="92" rows="15" tabindex="101" data-wz-state="256" data-min-length=""></textarea> */
+
+.inputfield {
+    height: 350px;
+}
+
+.md-avatar {
+    vertical-align: middle;
+    width: 40px;
+    height: 40px;
+}
+
+.card {
+    padding: 0%;
+}
